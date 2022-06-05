@@ -1,0 +1,12 @@
+{
+    "name": "olexandr/first",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "test"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
